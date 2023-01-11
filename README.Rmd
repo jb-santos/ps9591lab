@@ -43,6 +43,12 @@ data(ces)
 data(polity)
 ```
 
+## References
+
+Stephenson, Laura B; Harell, Allison; Rubenson, Daniel; Loewen, Peter John, 2020, "2019 Canadian Election Study - Online Survey", https://doi.org/10.7910/DVN/DUS88V, Harvard Dataverse, V1.
+
+Marshall, Monty G., Ted Robert Gurr. 2020. "Polity5: Political Regime Characteristics and Transitions, 1800-2018". Dataset Users' Manual. Center for Systemic Peace. Available at http://www.systemicpeace.org/inscr/p5manualv2018.pdf
+
 ## Code used to create datasets
 
 For transparency and replicability, the code used to create the sample datasets is below.
