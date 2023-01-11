@@ -1,0 +1,14 @@
+Package: ps9591lab
+Title: Practice Datasets for PS 9591 labs
+Version: 0.0.0.9000
+Authors@R: person("John", "Santos", , "jsanto27@uwo.ca", role = c("aut", "cre"))
+Description: Contains snippets of the 2019 Canadian Election Study Online Survey and the Polity 5 dataset (year 2018 only) for use in the PS 9591 labs. 
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+Suggests: 
+Depends: 
+    R (>= 3.5.0)
+LazyData: true
